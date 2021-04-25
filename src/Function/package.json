@@ -2,6 +2,7 @@
   "name": "populatefrontendcontent",
   "version": "1.0.0",
   "devDependencies": {
-    "aws-sdk": "~2"
+    "aws-sdk": "~2",
+    "cfn-custom-resources": "^4.0.12"
   }
 }
